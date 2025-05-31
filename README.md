@@ -1,6 +1,6 @@
 # Coffeo - Coffee Online Shop Landing Page
 
-![Coffeo](https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&h=400&fit=crop)
+![image](https://github.com/user-attachments/assets/b378d8ca-06d9-4232-be9b-d6993a6dadac)
 
 ## Overview
 
